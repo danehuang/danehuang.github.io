@@ -1,73 +1,126 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta
+      name="viewport"
+      http-equiv="Content-Type"
+      content="text/html; charset=UTF-8; width=device-width; initial-scale=1"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/tachyons/css/tachyons.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <title>Daniel Huang</title>
+  </head>
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>Daniel Huang</title>
-</head>
-  
-<body>
+  <body>
+    <div class="flex justify-center">
+      <div class="w-100 mw7 margin-auto pa2 mt4 athelas">
+        <div class="link dim black b f1 tc db mb3 mb4-ns" title="Home">
+          Daniel Huang
+        </div>
+        <div>email: dan [dot] e [dot] huang [at] gmail [dot] com</div>
+        <div>
+          github:
+          <a href="https://github.com/danehuang"
+            >https://github.com/danehuang</a
+          >
+        </div>
+        <div>
+          dblp:
+          <a href="https://dblp.uni-trier.de/pers/hd/h/Huang_0001:Daniel"
+            >https://dblp.uni-trier.de/pers/hd/h/Huang_0001:Daniel</a
+          >
+        </div>
 
-  <div>Daniel Huang</div>
-  <div>email: dan [dot] e [dot] huang [at] gmail [dot] com</div>
-  <div>github: <a href="https://github.com/danehuang">https://github.com/danehuang</a></div>
-  <div>dblp: <a href="https://dblp.uni-trier.de/pers/hd/h/Huang_0001:Daniel">https://dblp.uni-trier.de/pers/hd/h/Huang_0001:Daniel</a></div>
+        <div class="mv2">
+          <div class="f3 fw6" id="about">About</div>
+          <div>
+            I am currently a postdoc advised by Professor Jean-Baptiste Tristan working on generative models for formal mathematics and probabilistic programming.
+            In the past, I worked with Professor Dawn Song and did my PhD with Professor Greg Morrisett.
+          </div>
+        </div>
 
-  <h3>About</h3>
-  <p>
-    I am currently a postdoc advised by Professor Dawn Song working on learning and theorem proving.
-  </p>
+        <div class="mv2">
+          <div class="f3 fw6" id="research">Research</div>
 
-  <h3>Research</h3>
+          <div class="pv1">
+            <div class="f4" id="generative-models-for-formal-mathematics">
+              Generative Models for Formal Mathematics
+            </div>
+            <ul>
+              <li>
+                Elementary Logic in Linear Space (Preprint 2020)
+                <a href="https://arxiv.org/pdf/2001.11186.pdf">[preprint]</a>
+              </li>
+              <li>
+                On Learning to Prove (Preprint 2019)
+                <a href="https://arxiv.org/abs/1904.11099.pdf">[preprint]</a>
+              </li>
+              <li>
+                GamePad: A Learning Environment for Theorem Proving (ICLR 2019)
+                <a href="https://arxiv.org/abs/1806.00608.pdf">[paper]</a>
+                <a href="https://github.com/ml4tp">[gamepad]</a>
+              </li>
+            </ul>
+          </div>
 
-  <h4>Learning and Theorem Proving</h4>
-  <ul>
-    <li>
-      Elementary Logic in Linear Space (Preprint 2020) <a href="https://arxiv.org/pdf/2001.11186.pdf">[preprint]</a>
-    </li>
-    <li>
-      On Learning to Prove (Preprint 2019) <a href="https://arxiv.org/abs/1904.11099.pdf">[preprint]</a>
-    </li>
-    
-    <li>
-      GamePad: A Learning Environment for Theorem Proving (ICLR 2019) <a href="https://arxiv.org/abs/1806.00608.pdf">[paper]</a> <a href="https://github.com/ml4tp">[gamepad]</a>
-    </li>
-  </ul>
+          <div class="pv1">
+            <div class="f4" id="probabilistic-programming">
+              Probabilistic Programming
+            </div>
+            <ul>
+              <li>
+                An Application of Computable Distributions to the Semantics of
+                Probabilistic Programs (Chapter in Foundations of Probabilistic Programming 2020)
+                <a href="https://arxiv.org/abs/1806.07966.pdf">[chapter]</a>
+              </li>
+              <li>
+                On Programming Languages for Probabilistic Modeling
+                (Dissertation 2017)
+                <a href="papers/dissertation.pdf">[dissertation]</a>
+              </li>
+              <li>
+                Compiling Markov Chain Monte Carlo Algorithms for Probabilistic
+                Modeling (PLDI 2017) <a href="papers/augurv2.pdf">[paper]</a>
+                <a href="https://github.com/danehuang/augurv2">[augurv2]</a>
+              </li>
+              <li>
+                An Application of Computable Distributions to the Semantics of
+                Probabilistic Programming Languages (ESOP 2016, EAPLS Best
+                Paper) <a href="papers/compsem.pdf">[paper]</a>
+              </li>
+              <li>
+                Augur: Data-parallel Probabilistic Modeling (Neurips 2014,
+                Spotlight)
+                <a
+                  href="http://papers.nips.cc/paper/5531-augur-data-parallel-probabilistic-modeling.pdf"
+                  >[paper]</a
+                >
+              </li>
+            </ul>
+          </div>
 
-  <h4>Probabilistic Programming</h4>
-  <ul>
-    <li>
-      An Application of Computable Distributions to the Semantics of Probabilistic Programs (Under review as contribution to Foundations of Probabilistic Programming 2018) <a href="https://arxiv.org/abs/1806.07966.pdf">[chapter]</a>
-    </li>
-    
-    <li>
-      On Programming Languages for Probabilistic Modeling (Dissertation 2017) <a href="papers/dissertation.pdf">[dissertation]</a>
-    </li>
-
-    <li>
-      Compiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling (PLDI 2017) <a href="papers/augurv2.pdf">[paper]</a> <a href="https://github.com/danehuang/augurv2">[augurv2]</a>
-    </li>
-
-    <li>
-      An Application of Computable Distributions to the Semantics of Probabilistic Programming Languages (ESOP 2016, EAPLS Best Paper) <a href="papers/compsem.pdf">[paper]</a>
-    </li>
-
-    <li>
-      Augur: Data-parallel Probabilistic Modeling (NIPS 2014, Spotlight) <a href="http://papers.nips.cc/paper/5531-augur-data-parallel-probabilistic-modeling.pdf">[paper]</a>
-    </li>
-  </ul>
-
-  <h4>Miscellaneous</h4>
-  <ul>  
-    <li>
-      Formalizing the SAFECode Type System (CPP 2013) <a href="papers/safecode.pdf">[paper]</a>
-    </li>
-
-    <li>
-      Segmentation Fusion for Connectomics (ICCV 2011) <a href="http://gvi.seas.harvard.edu/sites/all/files/segmentation_fusion_for_connectomics_ICCV_2011.pdf">[paper]</a>
-    </li>
-  </ul>
-  
-</body>
-
+          <div class="pv1">
+            <div class="f4" id="miscellaneous">Miscellaneous</div>
+            <ul>
+              <li>
+                Formalizing the SAFECode Type System (CPP 2013)
+                <a href="papers/safecode.pdf">[paper]</a>
+                <a href="https://github.com/danehuang/vsafecode">[vsafecode]</a>
+              </li>
+              <li>
+                Segmentation Fusion for Connectomics (ICCV 2011)
+                <a
+                  href="http://gvi.seas.harvard.edu/sites/all/files/segmentation_fusion_for_connectomics_ICCV_2011.pdf"
+                  >[paper]</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
