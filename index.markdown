@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I run [Base26](mailto:info@base26labs.com), a consulting firm for multi-modal generative AI applications. 
+I run a consulting firm called [Base26](mailto:info@base26labs.com). I help companies explore applications of multi-modal generative AI for use cases.
 
 I am currently on leave from San Francisco State University (SFSU) where I was an assistant professor of computer science.
 
