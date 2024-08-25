@@ -17,7 +17,7 @@ I have worked on topics in AI, programming/formal languages, and quantum computi
 
 [[PAPL]](https://github.com/danehuang/PAPL): An introductory course on programming and programming languages.
 
-[[FMS]](https://github.com/danehuang/fms): Formal models and semantics course in the Coq proof assistant.
+[[FMS]](https://danehuang.github.io/fms/): Formal models and semantics course in the Coq proof assistant.
 
 
 ## Research
