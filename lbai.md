@@ -16,6 +16,8 @@ We study uncertainty quantification of deep learning systems (to reason about AI
 
 ## Current
 
+Johnny Gale, Computer Science.
+
 Sanket Shah, Computer Science.
 
 Kai Yee, Mathematics.
@@ -31,9 +33,9 @@ Bryce Goldman, Mathematics and Computer Science (now at Stanford).
 
 Pranjal Prafull Newalkar, Computer Science (now at ADP).
 
-Kai Chieh Lo, Computer Science.
+Jonathan Tsegaye, Computer Science (now at TechInSF).
 
-Jonathan Tsegaye, Computer Science.
+Kai Chieh Lo, Computer Science.
 
 Qin Geng, Computer Science.
 
