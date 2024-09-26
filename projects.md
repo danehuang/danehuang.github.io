@@ -11,6 +11,8 @@ I have worked on topics in AI, programming/formal languages, and quantum computi
 
 ## Educational
 
+[[The Annotated Hamiltonian]](https://danehuang.github.io/annotated-hamiltonian/intro.html): An introduction to analog quantum computing.
+
 [[The Annotated Qubit]](https://danehuang.github.io/annotated-qubit/intro.html): An introduction to quantum computing and information.
 
 [[The Annotated GP]](https://danehuang.github.io/annotated-gp/src/intro.html): An introduction to Gaussian processes. 
