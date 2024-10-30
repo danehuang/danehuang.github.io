@@ -5,15 +5,10 @@ permalink: /publications/
 order: 2
 ---
 
-
 ## AI For Science
 
 *Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)
 Chong Teng, **Daniel Huang**, Elizabeth Donahue, and Junwei Lucas Bao.
-
-
-*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
-Kai Chieh Lo and **Daniel Huang**.
 
 *A Spur to Molecular Geometry Optimization: Gradient-Enhanced Universal Kriging with On-the-Fly Adaptive Ab Initio Prior Mean Functions in Curvilinear Coordinates.* (Journal of Chemical Physics, Emerging Investigators Special Collection, 2023) [[paper]](https://aip.scitation.org/doi/abs/10.1063/5.0133675)  
 Chong Teng, **Daniel Huang**, and Junwei Lucas Bao.
@@ -42,6 +37,16 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 *GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
 **Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
+
+
+## AI/Maachine Learning
+
+*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*
+[[paper]](https://arxiv.org/pdf/2410.21419) [[softki]](https://github.com/danehuang/softki)
+Chris Camano and **Daniel Huang**.
+
+*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
+Kai Chieh Lo and **Daniel Huang**.
 
 
 ## Probabilistic Programming

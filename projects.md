@@ -24,6 +24,8 @@ I have worked on topics in AI, programming/formal languages, and quantum computi
 
 ## Research
 
+[[SoftKI]](https://github.com/danehuang/softki): Scalable Gaussian Process for high-dimensional regressions.
+
 [[MadGP]](https://danehuang.github.io/publications): AI surrogate models for modeling atomic potential energy surfaces.
 
 [[PusH]](https://lbai-push.readthedocs.io/en/latest/): Bayesian deep learning with concurrent GPU programming.
