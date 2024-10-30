@@ -39,7 +39,7 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 **Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
 
 
-## AI/Maachine Learning
+## AI/Machine Learning
 
 *High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*
 [[paper]](https://arxiv.org/pdf/2410.21419) [[softki]](https://github.com/danehuang/softki)
