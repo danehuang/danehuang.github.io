@@ -41,8 +41,9 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 ## AI/Machine Learning
 
-*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (Arxiv, 2024) [[preprint]](https://arxiv.org/pdf/2410.21419) [[softki]](https://github.com/danehuang/softki)
+*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (Arxiv, 2024) [[preprint]](https://arxiv.org/pdf/2410.21419.pdf) [[softki]](https://github.com/danehuang/softki)
 Chris Camano and **Daniel Huang**.
+
 
 *On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
 Kai Chieh Lo and **Daniel Huang**.
