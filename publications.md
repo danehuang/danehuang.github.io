@@ -7,13 +7,6 @@ order: 2
 
 ## AI/Machine Learning
 
-*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (Arxiv, 2024) [[preprint]](https://arxiv.org/pdf/2410.21419.pdf) [[softki]](https://github.com/danehuang/softki)  
-Chris Camano and **Daniel Huang**.
-
-*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
-Kai Chieh Lo and **Daniel Huang**.
-
-
 ### AI For Science
 
 *Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)   
@@ -63,6 +56,15 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 *Augur: Data-parallel Probabilistic Modeling*. (Neural Information Processing Systems, 2014, **Spotlight**) [[paper]](http://papers.nips.cc/paper/5531-augur-data-parallel-probabilistic-modeling.pdf)  
   Jean-Baptiste Tristan, **Daniel Huang**, Joseph Tassarotti, Adam Pocock, Stephen Greene, and Guy Steele.
+
+
+### General
+
+*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (Arxiv, 2024) [[preprint]](https://arxiv.org/pdf/2410.21419.pdf) [[softki]](https://github.com/danehuang/softki)  
+Chris Camano and **Daniel Huang**.
+
+*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
+Kai Chieh Lo and **Daniel Huang**.
 
 
 ## Quantum Computing
