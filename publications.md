@@ -16,7 +16,7 @@ Kai Chieh Lo and **Daniel Huang**.
 
 ### AI For Science
 
-*Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)
+*Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)   
 Chong Teng, **Daniel Huang**, Elizabeth Donahue, and Junwei Lucas Bao.
 
 *A Spur to Molecular Geometry Optimization: Gradient-Enhanced Universal Kriging with On-the-Fly Adaptive Ab Initio Prior Mean Functions in Curvilinear Coordinates.* (Journal of Chemical Physics, Emerging Investigators Special Collection, 2023) [[paper]](https://aip.scitation.org/doi/abs/10.1063/5.0133675)  
