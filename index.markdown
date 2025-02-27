@@ -5,7 +5,8 @@
 layout: home
 ---
 
-I run [Base26](mailto:info@base26labs.com). I help companies explore applications of multi-modal generative AI to their use cases.
+I run [Base26 Labs](mailto:info@base26labs.com). 
+We build custom AI systems that fuse perception and reasoning (i.e., neurosymbolic AI) to enhance reliablility and interpretability.
 
 I am currently on leave from San Francisco State University (SFSU) where I was an assistant professor of computer science.
 

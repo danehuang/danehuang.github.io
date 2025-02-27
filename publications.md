@@ -69,7 +69,13 @@ Kai Chieh Lo and **Daniel Huang**.
 
 ## Quantum Computing
 
-*Quantum Computing and Visualization: A Disruptive Technological Change Ahead.* (IEEE Computer Graphics and Applications, 43(6), Nov/Dec, 2023) [[paper]](https://arxiv.org/pdf/2310.04937.pdf)  
+*Circuit Partitioning and Full Circuit Execution: A Comparative Study of GPU-Based Quantum Circuit Simulation*. (2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC)) [[paper]](https://arxiv.org/pdf/2502.11385)
+Kartikey Sarode, **Daniel Huang**, and E. Wes Bethel.
+
+*From Bits to Qubits: Challenges in Classical-Quantum Integration*. (2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC)) [[paper]](https://arxiv.org/pdf/2501.18905)
+Sudhanshu Pravin Kulkarni, **Daniel Huang**, and E. Wes Bethel.
+
+*Quantum Computing and Visualization: A Disruptive Technological Change Ahead*. (IEEE Computer Graphics and Applications, 43(6), Nov/Dec, 2023) [[paper]](https://arxiv.org/pdf/2310.04937.pdf)  
 E. Wes Bethel, Mercy G. Amankwah, Jan Balewski, Roel Van Beeumen, Daan Camps, **Daniel Huang**, and Talita Perciano.
 
 
