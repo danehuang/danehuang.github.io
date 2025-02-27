@@ -6,7 +6,7 @@ layout: home
 ---
 
 I run [Base26 Labs](mailto:info@base26labs.com). 
-We build custom AI systems that fuse perception and reasoning (i.e., neurosymbolic AI) to enhance reliablility and interpretability.
+We develop tailored AI solutions that integrate deep learning and structured reasoning (i.e., neurosymbolic AI), delivering enhanced reliability and interpretability.
 
 I am currently on leave from San Francisco State University (SFSU) where I was an assistant professor of computer science.
 
