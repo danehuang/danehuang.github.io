@@ -5,12 +5,7 @@
 layout: home
 ---
 
-I run [Base26 Labs](mailto:info@base26labs.com). 
-We develop tailored AI solutions that integrate deep learning and structured reasoning (i.e., neurosymbolic AI), delivering enhanced reliability and interpretability.
+I am the founder of [Base26 Labs](https://base26labs.com/). 
+We work on AI methods to solve digital-to-physical translation problems.
 
-I am currently on leave from San Francisco State University (SFSU) where I was an assistant professor of computer science.
-
-In the past, I have been fortunate to work with Professor Dawn Song (at UC Berkeley), Jean-Baptiste Tristan
-(at AWS), and Professor Greg Morrisett for my PhD (at Harvard).
-
-I have worked on topics in AI, programming/formal languages, and quantum computing.
+Previously, I was an assistant professor of computer science at San Francisco State University (SFSU). I completed my PhD at Harvard, advised by Professor Greg Morrisett, and have been fortunate to collaborate with mentors like Professor Dawn Song (UC Berkeley) and Jean-Baptiste Tristan (AWS). My academic research spanned AI, programming languages/formal methods, and quantum computing.
