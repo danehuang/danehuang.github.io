@@ -30,10 +30,10 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 ### AI For Math
 
-*Elementary Logic in Linear Space*. (Preprint, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
+*Elementary Logic in Linear Space*. (Arxiv, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
 **Daniel Huang**.
 
-*On Learning to Prove*. (Preprint, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
+*On Learning to Prove*. (Arxiv, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
 **Daniel Huang**.
 
 *GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
@@ -60,7 +60,7 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 ### General
 
-*Scaling Gaussian Process Regression with Full Derivative Observations*. (Arxiv, 2025) [[paper]](https://arxiv.org/abs/2505.09134) **Daniel Huang**.
+*Scaling Gaussian Process Regression with Full Derivative Observations*. (Arxiv, 2025) [[preprint]](https://arxiv.org/abs/2505.09134) **Daniel Huang**.
 
 *High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (TMLR, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
 Chris Camano and **Daniel Huang**.
