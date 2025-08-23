@@ -19,11 +19,11 @@ We studied uncertainty quantification of deep learning systems (to reason about 
 I was fortunate to mentor a fantastic group of students.
 
 - Kai Yee, Mathematics.
-- Chris Camano, Mathematics and Computer Science (now at Caltech).
-- Sunny Tan, Computer Science (now at SFSU).
-- Bryce Goldman, Mathematics and Computer Science (now at Stanford).
-- Pranjal Prafull Newalkar, Computer Science (now at ADP).
-- Jonathan Tsegaye, Computer Science (now at TechInSF).
+- Chris Camano, Mathematics and Computer Science (pursuing PhD Caltech, NSF GRFP Fellowhip).
+- Sunny Tan, Computer Science (continuing at SFSU).
+- Bryce Goldman, Mathematics and Computer Science (purusing masters at Stanford).
+- Pranjal Prafull Newalkar, Computer Science (Joined ADP after graduation).
+- Jonathan Tsegaye, Computer Science (Joined TechInSF after graduation).
 - Kai Chieh Lo, Computer Science.
 - Qin Geng, Computer Science.
-- Darshil Dhameliya, Computer Science.
+- Darshil Dhameliya, Computer Science (Joined Democratizing Education after graduation).
