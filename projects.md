@@ -9,7 +9,7 @@ Below are some of my selected research and educational projects.
 
 ## Research
 
-[[DSoftKI]](https://arxiv.org/abs/2505.09134): Scaling Gaussian Process Regression with Full Derivative Observations.
+[[DSoftKI]](https://arxiv.org/abs/2505.09134): Scalable Gaussian Process that fits full derivative observations.
 
 [[SoftKI]](https://github.com/danehuang/softki_gp_kit): Scalable Gaussian Process for high-dimensional regression.
 
