@@ -5,9 +5,7 @@ permalink: /publications/
 order: 2
 ---
 
-## AI/Machine Learning
-
-### AI For Science
+### AI/ML For Science
 
 *Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)   
 Chong Teng, **Daniel Huang**, Elizabeth Donahue, and Junwei Lucas Bao.
@@ -28,19 +26,9 @@ Chong Teng, Yang Wang, **Daniel Huang**, Katherine Martin, Jean-Baptiste Tristan
 Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Miller, and Hanspeter Pfister.
 
 
-### AI For Math
+### AI/ML Systems & Theory
 
-*Elementary Logic in Linear Space*. (Arxiv, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
-**Daniel Huang**.
-
-*On Learning to Prove*. (Arxiv, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
-**Daniel Huang**.
-
-*GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
-**Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
-
-
-### Probabilistic Programming
+#### Probabilistic Programming
 
 *Push: Concurrent Probabilistic Programming for Bayesian Deep Learning*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2306.06528) [[Push]](https://github.com/lbai-lab/push)  
 **Daniel Huang**, Chris Camano, Jonathan Tsegaye, and Jonathan Austin Gale.
@@ -58,7 +46,7 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
   Jean-Baptiste Tristan, **Daniel Huang**, Joseph Tassarotti, Adam Pocock, Stephen Greene, and Guy Steele.
 
 
-### General
+#### Structured AI/ML Methods
 
 *Scaling Gaussian Process Regression with Full Derivative Observations*. (Arxiv, 2025) [[preprint]](https://arxiv.org/abs/2505.09134) **Daniel Huang**.
 
@@ -68,8 +56,19 @@ Chris Camano and **Daniel Huang**.
 *On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
 Kai Chieh Lo and **Daniel Huang**.
 
+#### Reasoning
 
-## Quantum Computing
+*Elementary Logic in Linear Space*. (Arxiv, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
+**Daniel Huang**.
+
+*On Learning to Prove*. (Arxiv, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
+**Daniel Huang**.
+
+*GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
+**Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
+
+
+### Quantum Computing
 
 *Circuit Partitioning and Full Circuit Execution: A Comparative Study of GPU-Based Quantum Circuit Simulation*. (2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC)) [[paper]](https://arxiv.org/pdf/2502.11385)
 Kartikey Sarode, **Daniel Huang**, and E. Wes Bethel.
@@ -81,7 +80,7 @@ Sudhanshu Pravin Kulkarni, **Daniel Huang**, and E. Wes Bethel.
 E. Wes Bethel, Mercy G. Amankwah, Jan Balewski, Roel Van Beeumen, Daan Camps, **Daniel Huang**, and Talita Perciano.
 
 
-## Formal Verification
+### Formal Verification
 
 *Formalizing the SAFECode Type System*. (Certified Proofs and Programs, 2013) [[paper]](papers/safecode.pdf) [[vsafecode]](https://github.com/danehuang/vsafecode)  
 **Daniel Huang** and Greg Morrisett.
