@@ -19,7 +19,7 @@ We studied uncertainty quantification of deep learning systems (to reason about 
 I was fortunate to mentor a fantastic group of students.
 
 - Kai Yee, Mathematics.
-- Chris Camano, Mathematics and Computer Science (pursuing PhD Caltech, NSF GRFP Fellowhip).
+- Chris Camano, Mathematics and Computer Science (pursuing PhD Caltech, NSF GRFP Fellowship).
 - Sunny Tan, Computer Science (continuing at SFSU).
 - Bryce Goldman, Mathematics and Computer Science (purusing masters at Stanford).
 - Pranjal Prafull Newalkar, Computer Science (Joined ADP after graduation).
