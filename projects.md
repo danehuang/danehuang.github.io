@@ -9,19 +9,19 @@ Below are some of my selected research and educational projects.
 
 ## Research
 
-[[DSoftKI]](https://arxiv.org/abs/2505.09134): Scalable Gaussian Process that fits full derivative observations.
+[[DSoftKI]](https://arxiv.org/abs/2505.09134): Scalable Gaussian process that fits full derivative observations.
 
-[[SoftKI]](https://github.com/danehuang/softki_gp_kit): Scalable Gaussian Process for high-dimensional regression.
+[[SoftKI]](https://github.com/danehuang/softki_gp_kit): Scalable Gaussian process for high-dimensional regression.
 
 [[MadGP]](https://danehuang.github.io/publications): AI surrogate models for modeling atomic potential energy surfaces.
 
 [[PusH]](https://lbai-push.readthedocs.io/en/latest/): Bayesian deep learning with concurrent GPU programming.
 
-[[Gamepad]](https://github.com/ml4tp): Theorem proving with neural networks.
+[[Gamepad]](https://github.com/ml4tp): Theorem proving with neural networks (neuro-symbolic).
 
 [[Augurv2]](https://github.com/danehuang/augurv2): A probabilistic programming language that compiles to GPUs.
 
-[[VSafecode]](https://github.com/danehuang/vsafecode): Formal verification of SAFECode. 
+[[VSafecode]](https://github.com/danehuang/vsafecode): Formal verification of SAFECode for LLVM memory safety. 
 
 
 ## Educational
