@@ -48,7 +48,7 @@ Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Mil
 
 #### Structured AI/ML Methods
 
-*Scaling Gaussian Process Regression with Full Derivative Observations*. (Arxiv, 2025) [[preprint]](https://arxiv.org/abs/2505.09134) **Daniel Huang**.
+*Scaling Gaussian Process Regression with Full Derivative Observations*. (TMLR, 2026) [[paper]](https://openreview.net/pdf?id=fbonXp38r9) **Daniel Huang**. [[dsoftki]](https://github.com/base26labs/dsoftki_gp)
 
 *High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (TMLR, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
 Chris Camano and **Daniel Huang**.
