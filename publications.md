@@ -5,6 +5,49 @@ permalink: /publications/
 order: 2
 ---
 
+
+### AI/ML Systems & Theory
+
+#### Structured AI/ML Methods
+
+*Scaling Gaussian Process Regression with Full Derivative Observations*. (TMLR, 2026) [[paper]](https://openreview.net/pdf?id=fbonXp38r9) **Daniel Huang**. [[dsoftki]](https://github.com/base26labs/dsoftki_gp)
+
+*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (TMLR, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
+Chris Camano and **Daniel Huang**.
+
+*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
+Kai Chieh Lo and **Daniel Huang**.
+
+#### Probabilistic Programming
+
+*Push: Concurrent Probabilistic Programming for Bayesian Deep Learning*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2306.06528) [[Push]](https://github.com/lbai-lab/push)  
+**Daniel Huang**, Chris Camano, Jonathan Tsegaye, and Jonathan Austin Gale.
+
+*An Application of Computable Distributions to the Semantics of Probabilistic Programs*. (Chapter in Foundations of Probabilistic Programming, 2020) [[chapter]](https://arxiv.org/abs/1806.07966.pdf)  
+**Daniel Huang**, Bas Spitters, and Greg Morrisett.
+
+*Compiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling*. (Programming Language Design and Implementation, 2017) [[paper]](papers/augurv2.pdf) [[augurv2]](https://github.com/danehuang/augurv2)  
+**Daniel Huang**, Jean-Baptiste Tristan, and Greg Morrisett.
+
+*An Application of Computable Distributions to the Semantics of Probabilistic Programming Languages*. (European Symposium on Programming, 2016, **EAPLS Best Paper**) [[paper]](papers/compsem.pdf)  
+**Daniel Huang** and Greg Morrisett.
+
+*Augur: Data-parallel Probabilistic Modeling*. (Neural Information Processing Systems, 2014, **Spotlight**) [[paper]](http://papers.nips.cc/paper/5531-augur-data-parallel-probabilistic-modeling.pdf)  
+  Jean-Baptiste Tristan, **Daniel Huang**, Joseph Tassarotti, Adam Pocock, Stephen Greene, and Guy Steele.
+
+
+#### Reasoning
+
+*Elementary Logic in Linear Space*. (Arxiv, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
+**Daniel Huang**.
+
+*On Learning to Prove*. (Arxiv, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
+**Daniel Huang**.
+
+*GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
+**Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
+
+
 ### AI/ML For Science
 
 *Exploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes*. (Journal of Chemical Physics, 2023) [[paper]](https://pubs.aip.org/aip/jcp/article/159/21/214111/2926229/Exploring-torsional-conformer-space-with-physical)   
@@ -26,46 +69,6 @@ Chong Teng, Yang Wang, **Daniel Huang**, Katherine Martin, Jean-Baptiste Tristan
 Amelio Vazquez-Reina, Michael Gelbart, **Daniel Huang**, Jeff Lichtman, Eric Miller, and Hanspeter Pfister.
 
 
-### AI/ML Systems & Theory
-
-#### Probabilistic Programming
-
-*Push: Concurrent Probabilistic Programming for Bayesian Deep Learning*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2306.06528) [[Push]](https://github.com/lbai-lab/push)  
-**Daniel Huang**, Chris Camano, Jonathan Tsegaye, and Jonathan Austin Gale.
-
-*An Application of Computable Distributions to the Semantics of Probabilistic Programs*. (Chapter in Foundations of Probabilistic Programming, 2020) [[chapter]](https://arxiv.org/abs/1806.07966.pdf)  
-**Daniel Huang**, Bas Spitters, and Greg Morrisett.
-
-*Compiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling*. (Programming Language Design and Implementation, 2017) [[paper]](papers/augurv2.pdf) [[augurv2]](https://github.com/danehuang/augurv2)  
-**Daniel Huang**, Jean-Baptiste Tristan, and Greg Morrisett.
-
-*An Application of Computable Distributions to the Semantics of Probabilistic Programming Languages*. (European Symposium on Programming, 2016, **EAPLS Best Paper**) [[paper]](papers/compsem.pdf)  
-**Daniel Huang** and Greg Morrisett.
-
-*Augur: Data-parallel Probabilistic Modeling*. (Neural Information Processing Systems, 2014, **Spotlight**) [[paper]](http://papers.nips.cc/paper/5531-augur-data-parallel-probabilistic-modeling.pdf)  
-  Jean-Baptiste Tristan, **Daniel Huang**, Joseph Tassarotti, Adam Pocock, Stephen Greene, and Guy Steele.
-
-
-#### Structured AI/ML Methods
-
-*Scaling Gaussian Process Regression with Full Derivative Observations*. (TMLR, 2026) [[paper]](https://openreview.net/pdf?id=fbonXp38r9) **Daniel Huang**. [[dsoftki]](https://github.com/base26labs/dsoftki_gp)
-
-*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (TMLR, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
-Chris Camano and **Daniel Huang**.
-
-*On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
-Kai Chieh Lo and **Daniel Huang**.
-
-#### Reasoning
-
-*Elementary Logic in Linear Space*. (Arxiv, 2020) [[preprint]](https://arxiv.org/pdf/2001.11186.pdf)  
-**Daniel Huang**.
-
-*On Learning to Prove*. (Arxiv, 2019) [[preprint]](https://arxiv.org/abs/1904.11099.pdf)  
-**Daniel Huang**.
-
-*GamePad: A Learning Environment for Theorem Proving*. (International Conference on Learning Representations, 2019) [[paper]](https://arxiv.org/abs/1806.00608.pdf) [[gamepad]](https://github.com/ml4tp)  
-**Daniel Huang**, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.
 
 
 ### Quantum Computing
