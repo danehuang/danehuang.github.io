@@ -6,7 +6,7 @@ layout: home
 ---
 
 I am the founder of [Base26 Labs](https://base26labs.com/) where we explore the convergence of language, data, and executable code.
-Our current focus is the development of neuro-symbolic AI, spanning the spectrum from neural perception to symbolic reasoning, to apply digital intelligence to physical-world problems.
+Our current focus is the development of neuro-symbolic AI, spanning the spectrum from neural perception to symbolic reasoning, to apply digital intelligence to solve problems in the physical world.
 
 Previously, I was an assistant professor of computer science at San Francisco State University (SFSU).
 I completed my PhD at Harvard, advised by Professor Greg Morrisett, and have been fortunate to collaborate with mentors like Professor Dawn Song (UC Berkeley) and Jean-Baptiste Tristan (AWS).
