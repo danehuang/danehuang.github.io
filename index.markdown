@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am the founder of [Base26 Labs](https://base26labs.com/) where we explore the intersection of language, data, and executable code.
+I am the founder of [Base26 Labs](https://base26labs.com/) where we explore the convergence of language, data, and executable code.
 Our current focus is the development of neuro-symbolic AI, spanning the spectrum from neural perception to symbolic reasoning, to apply digital intelligence to physical-world problems.
 
 Previously, I was an assistant professor of computer science at San Francisco State University (SFSU).
