@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Daniel Huang"
-  description: "On a journey to make sense of AI, formal languages, and quantum."
+  description: "Founder of Base26 Labs developing neuro-symbolic AI to solve problems in the physical world with digital intelligence. Harvard PhD, former SFSU professor of CS."
   favicon: favicon.ico
 
   navbar:
@@ -36,8 +36,13 @@ website:
     right:
       - icon: github
         href: https://github.com/danehuang
+        aria-label: "GitHub"
       - icon: linkedin
         href: https://www.linkedin.com/in/daniel-huang-28258313b
+        aria-label: "LinkedIn"
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=VTe4SGUAAAAJ&hl=en
+        aria-label: "Google Scholar"
 
 format:
   html:

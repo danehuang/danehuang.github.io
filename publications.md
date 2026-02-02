@@ -10,9 +10,9 @@ order: 2
 
 #### Structured AI/ML Methods
 
-*Scaling Gaussian Process Regression with Full Derivative Observations*. (TMLR, 2026) [[paper]](https://openreview.net/pdf?id=fbonXp38r9) **Daniel Huang**. [[dsoftki]](https://github.com/base26labs/dsoftki_gp)
+*Scaling Gaussian Process Regression with Full Derivative Observations*. (Transactions on Machine Learning Research, 2026) [[paper]](https://openreview.net/pdf?id=fbonXp38r9) **Daniel Huang**. [[dsoftki]](https://github.com/base26labs/dsoftki_gp)
 
-*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (TMLR, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
+*High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation*. (Transactions on Machine Learning Research, 2025) [[paper]](https://openreview.net/pdf?id=U9b2FIjvWU) [[softki]](https://github.com/danehuang/softki_gp_kit)  
 Chris Camano and **Daniel Huang**.
 
 *On Training Derivative-Constrained Neural Networks*. (Arxiv, 2023) [[preprint]](https://arxiv.org/abs/2310.01649) [[code]](https://github.com/sage66730/DCNN-Training)  
