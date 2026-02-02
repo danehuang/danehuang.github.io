@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!*.md"
+    - "!*.markdown"
+
+website:
+  title: "Daniel Huang"
+  description: "On a journey to make sense of AI, formal languages, and quantum."
+  favicon: favicon.ico
+
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "LBAI Lab"
+        href: lbai.qmd
+    right:
+      - icon: github
+        href: https://github.com/danehuang
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniel-huang-28258313b
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=VTe4SGUAAAAJ&hl=en
+        aria-label: "Google Scholar"
+
+  page-footer:
+    left: "© 2026 Daniel Huang"
+    right:
+      - icon: github
+        href: https://github.com/danehuang
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniel-huang-28258313b
+
+format:
+  html:
+    theme: litera
+    toc: false
+    code-copy: true
+    code-overflow: wrap
