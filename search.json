@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "AI/ML Systems & Theory\n\nStructured AI/ML Methods\nScaling Gaussian Process Regression with Full Derivative Observations. (TMLR, 2026) [paper] Daniel Huang. [dsoftki]\nHigh-Dimensional Gaussian Process Regression with Soft Kernel Interpolation. (TMLR, 2025) [paper] [softki] Chris Camano and Daniel Huang.\nOn Training Derivative-Constrained Neural Networks. (Arxiv, 2023) [preprint] [code] Kai Chieh Lo and Daniel Huang.\n\n\nProbabilistic Programming\nPush: Concurrent Probabilistic Programming for Bayesian Deep Learning. (Arxiv, 2023) [preprint] [Push] Daniel Huang, Chris Camano, Jonathan Tsegaye, and Jonathan Austin Gale.\nAn Application of Computable Distributions to the Semantics of Probabilistic Programs. (Chapter in Foundations of Probabilistic Programming, 2020) [chapter] Daniel Huang, Bas Spitters, and Greg Morrisett.\nCompiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling. (Programming Language Design and Implementation, 2017) [paper] [augurv2] Daniel Huang, Jean-Baptiste Tristan, and Greg Morrisett.\nAn Application of Computable Distributions to the Semantics of Probabilistic Programming Languages. (European Symposium on Programming, 2016, EAPLS Best Paper) [paper] Daniel Huang and Greg Morrisett.\nAugur: Data-parallel Probabilistic Modeling. (Neural Information Processing Systems, 2014, Spotlight) [paper] Jean-Baptiste Tristan, Daniel Huang, Joseph Tassarotti, Adam Pocock, Stephen Greene, and Guy Steele.\n\n\nReasoning\nElementary Logic in Linear Space. (Arxiv, 2020) [preprint] Daniel Huang.\nOn Learning to Prove. (Arxiv, 2019) [preprint] Daniel Huang.\nGamePad: A Learning Environment for Theorem Proving. (International Conference on Learning Representations, 2019) [paper] [gamepad] Daniel Huang, Prafulla Dhariwal, Dawn Song, and Ilya Sutskever.\n\n\n\nAI/ML For Science\nExploring Torsional Conformer Space with Physical Prior Mean Function-Driven Meta-Gaussian Processes. (Journal of Chemical Physics, 2023) [paper] Chong Teng, Daniel Huang, Elizabeth Donahue, and Junwei Lucas Bao.\nA Spur to Molecular Geometry Optimization: Gradient-Enhanced Universal Kriging with On-the-Fly Adaptive Ab Initio Prior Mean Functions in Curvilinear Coordinates. (Journal of Chemical Physics, Emerging Investigators Special Collection, 2023) [paper] Chong Teng, Daniel Huang, and Junwei Lucas Bao.\nDual-Level Training of Gaussian Processes with Physically Inspired Priors for Geometry Optimizations. (Journal of Chemical Theory and Computation, 2022) [paper] Chong Teng, Yang Wang, Daniel Huang, Katherine Martin, Jean-Baptiste Tristan, and Junwei Lucas Bao.\nGeometry Meta-Optimization. (Journal of Chemical Physics, 2022) [paper] Daniel Huang, Junwei Lucas Bao, and Jean-Baptiste Tristan.\nmad-GP: Automatic Differentiation of Gaussian Processes for Molecules and Materials. (Journal of Mathematical Chemistry, 2022) [paper] Daniel Huang, Chong Teng, Junwei Lucas Bao, and Jean-Baptiste Tristan.\nSegmentation Fusion for Connectomics. (International Conference on Computer Vision, 2011) [paper] Amelio Vazquez-Reina, Michael Gelbart, Daniel Huang, Jeff Lichtman, Eric Miller, and Hanspeter Pfister.\n\n\nQuantum Computing\nCircuit Partitioning and Full Circuit Execution: A Comparative Study of GPU-Based Quantum Circuit Simulation. (2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC)) [paper] Kartikey Sarode, Daniel Huang, and E. Wes Bethel.\nFrom Bits to Qubits: Challenges in Classical-Quantum Integration. (2024 IEEE 31st International Conference on High Performance Computing, Data, and Analytics (HiPC)) [paper] Sudhanshu Pravin Kulkarni, Daniel Huang, and E. Wes Bethel.\nQuantum Computing and Visualization: A Disruptive Technological Change Ahead. (IEEE Computer Graphics and Applications, 43(6), Nov/Dec, 2023) [paper] E. Wes Bethel, Mercy G. Amankwah, Jan Balewski, Roel Van Beeumen, Daan Camps, Daniel Huang, and Talita Perciano.\n\n\nFormal Verification\nFormalizing the SAFECode Type System. (Certified Proofs and Programs, 2013) [paper] [vsafecode] Daniel Huang and Greg Morrisett."
+  },
+  {
+    "objectID": "lbai.html",
+    "href": "lbai.html",
+    "title": "LBAI",
+    "section": "",
+    "text": "While at SFSU, I lead the Language-Based AI Lab. Our aim was to bridge the well-studied world of programming with code, i.e., using a language, with new ways of programming with data, i.e., using AI/ML. As software becomes increasingly data-driven, new techniques are required to build, reason about, and verify these hybrid systems.\nWe studied uncertainty quantification of deep learning systems (to reason about AI systems, [Push]), function approximation with derivative information (to enable new applications in science, [DCNN]), neuro-symbolic systems (to understand the mixing of code and data), and adiabatic quantum computing (to leverage new hardware, [a2c])."
+  },
+  {
+    "objectID": "lbai.html#alumni",
+    "href": "lbai.html#alumni",
+    "title": "LBAI",
+    "section": "Alumni",
+    "text": "Alumni\nI was fortunate to mentor a fantastic group of students.\n\nKai Yee, Mathematics.\nChris Camano, Mathematics and Computer Science (pursuing PhD Caltech, NSF GRFP Fellowship).\nSunny Tan, Computer Science (continuing at SFSU).\nBryce Goldman, Mathematics and Computer Science (purusing masters at Stanford).\nPranjal Prafull Newalkar, Computer Science (Joined ADP after graduation).\nJonathan Tsegaye, Computer Science (Joined TechInSF after graduation).\nKai Chieh Lo, Computer Science.\nQin Geng, Computer Science.\nDarshil Dhameliya, Computer Science (Joined Democratizing Education after graduation)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Huang",
+    "section": "",
+    "text": "I am the founder of Base26 Labs where we explore the convergence of language, data, and executable code. Our current focus is the development of neuro-symbolic AI, spanning the spectrum from neural perception to symbolic reasoning, to apply digital intelligence to solve problems in the physical world.\nPreviously, I was an assistant professor of computer science at San Francisco State University (SFSU). I completed my PhD at Harvard, advised by Professor Greg Morrisett, and have been fortunate to collaborate with mentors like Professor Dawn Song (UC Berkeley) and Jean-Baptiste Tristan (AWS). My academic research spanned AI, programming languages/formal methods, and quantum computing."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are some of my selected research and educational projects."
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "Projects",
+    "section": "Research",
+    "text": "Research\n[DSoftKI]: Scalable Gaussian process that fits full derivative observations.\n[SoftKI]: Scalable Gaussian process for high-dimensional regression.\n[MadGP]: AI surrogate models for modeling atomic potential energy surfaces.\n[PusH]: Bayesian deep learning with concurrent GPU programming.\n[Gamepad]: Theorem proving with neural networks (neuro-symbolic).\n[Augurv2]: A probabilistic programming language that compiles to GPUs.\n[VSafecode]: Formal verification of SAFECode for LLVM memory safety."
+  },
+  {
+    "objectID": "projects.html#educational",
+    "href": "projects.html#educational",
+    "title": "Projects",
+    "section": "Educational",
+    "text": "Educational\n[The Annotated Hamiltonian]: An introduction to analog quantum computing.\n[The Annotated Qubit]: An introduction to quantum computing and information.\n[The Annotated GP]: An introduction to Gaussian processes.\n[PAPL]: An introductory course on programming and programming languages.\n[FMS]: Formal models and semantics course in the Coq proof assistant."
+  }
+]
