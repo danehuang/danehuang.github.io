@@ -159,8 +159,8 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="aiml-systems-theory">AI/ML Systems &amp; Theory</h3>
 <section id="structured-aiml-methods" class="level4">
 <h4 class="anchored" data-anchor-id="structured-aiml-methods">Structured AI/ML Methods</h4>
-<p><em>Scaling Gaussian Process Regression with Full Derivative Observations</em>. (TMLR, 2026) <a href="https://openreview.net/pdf?id=fbonXp38r9">[paper]</a> <strong>Daniel Huang</strong>. <a href="https://github.com/base26labs/dsoftki_gp">[dsoftki]</a></p>
-<p><em>High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation</em>. (TMLR, 2025) <a href="https://openreview.net/pdf?id=U9b2FIjvWU">[paper]</a> <a href="https://github.com/danehuang/softki_gp_kit">[softki]</a> Chris Camano and <strong>Daniel Huang</strong>.</p>
+<p><em>Scaling Gaussian Process Regression with Full Derivative Observations</em>. (Transactions on Machine Learning Research, 2026) <a href="https://openreview.net/pdf?id=fbonXp38r9">[paper]</a> <strong>Daniel Huang</strong>. <a href="https://github.com/base26labs/dsoftki_gp">[dsoftki]</a></p>
+<p><em>High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation</em>. (Transactions on Machine Learning Research, 2025) <a href="https://openreview.net/pdf?id=U9b2FIjvWU">[paper]</a> <a href="https://github.com/danehuang/softki_gp_kit">[softki]</a> Chris Camano and <strong>Daniel Huang</strong>.</p>
 <p><em>On Training Derivative-Constrained Neural Networks</em>. (Arxiv, 2023) <a href="https://arxiv.org/abs/2310.01649">[preprint]</a> <a href="https://github.com/sage66730/DCNN-Training">[code]</a> Kai Chieh Lo and <strong>Daniel Huang</strong>.</p>
 </section>
 <section id="probabilistic-programming" class="level4">
@@ -291,7 +291,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("git@github-personal:danehuang\/danehuang\.github\.io\.git");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -631,13 +631,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/danehuang">
-      <i class="bi bi-github" role="img">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/daniel-huang-28258313b">
-      <i class="bi bi-linkedin" role="img">
+      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=VTe4SGUAAAAJ&amp;hl=en">
+      <i class="bi bi-mortarboard-fill" role="img" aria-label="Google Scholar">
 </i> 
     </a>
   </li>  
