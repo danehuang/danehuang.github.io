@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Daniel Huang"
-  description: "Founder of Base26 Labs developing neuro-symbolic AI to solve problems in the physical world with digital intelligence. Harvard PhD, former SFSU professor of CS."
+  description: "Founder of Base26 Labs exploring language, data, and code convergence for AI systems that solve physical world problems. Harvard PhD, former SFSU CS professor. Research in neuro-symbolic AI, probabilistic programming, Gaussian processes, AI for science, and quantum computing."
   favicon: favicon.ico
 
   navbar:
